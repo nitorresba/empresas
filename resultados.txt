@@ -1,0 +1,23 @@
+Empresa 1 Ganancias ano 2023 : 11900
+Empresa 2 Ganancias ano 2023 : 6300
+Empresa 3 Ganancias ano 2023 : 5000
+Empresa 4 Ganancias ano 2023 : 5500
+Empresa 5 Ganancias ano 2023 : 4200
+
+Empresa 1 Ganancias ano 2024 : 13600
+Empresa 2 Ganancias ano 2024 : 6500
+Empresa 3 Ganancias ano 2024 : 8600
+Empresa 4 Ganancias ano 2024 : 7900
+Empresa 5 Ganancias ano 2024 : 8800
+
+Empresa 1 Ganancias ano 2025 : 14000
+Empresa 2 Ganancias ano 2025 : 10200
+Empresa 3 Ganancias ano 2025 : 11200
+Empresa 4 Ganancias ano 2025 : 12700
+Empresa 5 Ganancias ano 2025 : 11400
+
+Empresa 1 Ganancias totales : 39500
+Empresa 2 Ganancias totales : 23000
+Empresa 3 Ganancias totales : 24800
+Empresa 4 Ganancias totales : 26100
+Empresa 5 Ganancias totales : 24400
